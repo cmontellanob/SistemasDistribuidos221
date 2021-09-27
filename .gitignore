@@ -27,3 +27,5 @@ hs_err_pid*
 /MayorTCP/build/
 /ServidorWeb/nbproject/private/
 /ServidorWeb/build/
+/SoquetsTCPMultihilo/nbproject/private/
+/SoquetsTCPMultihilo/build/
