@@ -29,3 +29,5 @@ hs_err_pid*
 /ServidorWeb/build/
 /SoquetsTCPMultihilo/nbproject/private/
 /SoquetsTCPMultihilo/build/
+/SoquetsUDP/nbproject/private/
+/SoquetsUDP/build/
