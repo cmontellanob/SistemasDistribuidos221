@@ -1,0 +1,10 @@
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\bin\Debug\ConsumirOperaciones.exe.config
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\bin\Debug\ConsumirOperaciones.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\bin\Debug\ConsumirOperaciones.pdb
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.csprojAssemblyReference.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.Form1.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.Properties.Resources.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.csproj.GenerateResource.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.csproj.CoreCompileInputs.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2021\SistemasDistribuidos221\ConsumirOperaciones\ConsumirOperaciones\obj\Debug\ConsumirOperaciones.pdb
