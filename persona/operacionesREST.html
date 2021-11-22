@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <label for="id">Id</label>
+    <input type="number" name="id" id="idpersona"><br> <br>
+    
+    <label for="carnet"> Carnet</label>
+    <input type="number" name="carnet" id="carnet"><br> <br>
+    <label for="nombre"> Nombre</label>
+    <input type="text" name="nombre" id="nombre"><br> <br>
+    
+    <button value="GET" onclick="llamadaGET('index.php/persona')">GET</button>
+    <button value="GET" onclick="llamadaGETid('index.php/persona')">GET</button>
+    
+    <button value="POST" onclick="llamadaPOST('index.php/persona')">POST</button>
+    <button value="PUT" onclick="llamadaPUT('index.php/persona')">PUT</button>
+    <button value="PATCH" onclick="llamadaPATCH('index.php/persona')">PATCH</button>
+    <button value="DELETE" onclick="llamadaDELETE('index.php/persona')">DELETE</button>
+    <br><br>
+    <div id="respuesta">
+
+    </div>
+</body>
+<script src="ajax.js"></script>
+
+</html>
